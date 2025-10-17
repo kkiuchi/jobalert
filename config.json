@@ -1,0 +1,20 @@
+{
+  "user_name": "",
+  "notifications": {
+    "sender": "",
+    "recipient": "",
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "username": "",
+    "password": "",
+    "use_tls": true,
+    "slack_webhook": null,
+    "discord_webhook": null
+  },
+  "sheets": {
+    "spreadsheet_url": "",
+    "credentials_path": "",
+    "worksheet_name": "Job Monitor"
+  },
+  "sites": []
+}
